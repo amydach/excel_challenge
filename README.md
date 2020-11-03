@@ -1,7 +1,5 @@
 Kickstart My Chart Project
 
-Note:  Images of charts were provided (see PNG references) that we were required to duplicate in Excel.
-
 ## Background
 
 Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
@@ -90,7 +88,7 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
 * Create a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
 
-
+Note:  Images of charts were provided (see PNG references) that we were required to duplicate in Excel.
 
 - - -
 
