@@ -1,4 +1,4 @@
-Kickstart My Chart Project
+# Kickstart My Chart Project
 
 ## Background
 
